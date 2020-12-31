@@ -3,3 +3,5 @@ fastai>=2
 pillow<7
 packaging
 ipywidgets==7.5.1
+bs4==0.0.1
+requests==2.23.0
